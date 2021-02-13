@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {"App\\": "app/"}
+    },
+    "require": {
+        "gemorroj/archive7z": "^5.1"
+    }
+}
